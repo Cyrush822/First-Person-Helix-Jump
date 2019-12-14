@@ -12,11 +12,11 @@
 	<key>CFBundleExecutable</key>
 	<string>First Person Helix Jump v4</string>
 	<key>CFBundleGetInfoString</key>
-	<string>Unity Player version 2019.1.9f1 (d5f1b37da199). (c) 2019 Unity Technologies ApS. All rights reserved.</string>
+	<string>Unity Player version 2019.2.8f1 (ff5b465c8d13). (c) 2019 Unity Technologies ApS. All rights reserved.</string>
 	<key>CFBundleIconFile</key>
 	<string>PlayerIcon.icns</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.Company.ProductName</string>
+	<string>com.GameDevSIG.FirstPersonHelixJumpv4</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -30,7 +30,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.0</string>
+	<string>3.0</string>
 	<key>CFBundleVersion</key>
 	<string>0</string>
 	<key>NSMainNibFile</key>
@@ -38,7 +38,7 @@
 	<key>NSPrincipalClass</key>
 	<string>PlayerApplication</string>
 	<key>UnityBuildNumber</key>
-	<string>d5f1b37da199</string>
+	<string>ff5b465c8d13</string>
 	<key>LSMinimumSystemVersion</key>
 	<string>10.9.0</string>
 </dict>
