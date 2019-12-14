@@ -1,0 +1,3 @@
+/Users/Cyrus2021262/Desktop/GameDev/FirstPersonHelixJumpRound/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+/Users/Cyrus2021262/Desktop/GameDev/FirstPersonHelixJumpRound/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
+/Users/Cyrus2021262/Desktop/GameDev/FirstPersonHelixJumpRound/obj/Debug/Assembly-CSharp.dll

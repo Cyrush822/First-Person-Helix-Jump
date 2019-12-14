@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b770773304a1a4138a58a1867b90b116
+timeCreated: 1529485023
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ABeeZee
+  fontNames:
+  - ABeeZee
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 89bcf7d55cb9f4065be8b74a97f9e40e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

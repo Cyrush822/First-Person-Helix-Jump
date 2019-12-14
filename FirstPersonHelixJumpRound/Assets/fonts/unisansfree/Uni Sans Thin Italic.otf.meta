@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 46fa7745aa48b4ec7be307aee7d5d443
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Uni Sans
+  fontNames:
+  - Uni Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2f5422cb2cc7a482d80915a137622fde, type: 3}
+  - {fileID: 12800000, guid: 18ca295ce20f94d7a8b4ad78870a2821, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
